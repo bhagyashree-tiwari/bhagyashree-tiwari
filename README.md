@@ -1,6 +1,6 @@
 
-<!-- [![MasterHead][file:///home/bhagyashreetiwari/Downloads/github-header-image%20(1).png] -->
-[![MasterHead](./your-header-image-name.png)
+[![MasterHead](./github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Bhagyashree Tiwari</h1>
 <h3 align="center">A Lifelong Learner</h3>
 
