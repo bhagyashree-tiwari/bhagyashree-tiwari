@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bhagyashree Tiwari</h1>
 <h3 align="center">A Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** **Devops**
 
 - 💬 Ask me about **Golang, Python, Backend Development, Machine Learning**
 
